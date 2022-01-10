@@ -13,16 +13,19 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Writing your own scripts](#writing-your-own-scripts)
 - [Tools](#tools)
-- [Scripts](#Scripts)
+- [Scripts](#scripts)
 
 ## Writing your own scripts
+
 - [Create new Octoherd Script](https://github.com/octoherd/create-octoherd-script) - CLI to create a new folder and repository for an Octoherd Script.
 - [Hello world](https://github.com/octoherd/script-hello-world) - The "Hello, World!" of all Octoherd Scripts!
 
 ## Tools
+
 - [Repo Meister](https://repomeister.com) - Run Octoherd scripts from your browser, Repo Meister makes GitHub repository management easy for everyone.
 
 ## Scripts
+
 - [Rename master branch to main](https://github.com/octoherd/script-rename-master-branch-to-main) - Renames the default branch to main if it is currently set to master.
 - [Sync branch protections](https://github.com/octoherd/script-sync-branch-protections) - Apply branch protection settings from one repository to others.
 - [Close renovate dashboard issues](https://github.com/octoherd/script-close-renovate-dashboard-issues) - Close all Renovate Dashboard issues.
