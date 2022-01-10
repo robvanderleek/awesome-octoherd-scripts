@@ -1,4 +1,4 @@
-# Awesome Octoherd Scripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Octoherd Scripts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 [<img src="https://raw.githubusercontent.com/octoherd/octoherd/main/assets/octoherd-flipped.gif">](https://github.com/octoherd/octoherd)
@@ -23,7 +23,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Repo Meister](https://repomeister.com) - Run Octoherd scripts from your browser, Repo Meister makes GitHub repository management easy for everyone.
 
 ## Scripts
-
 - [Rename master branch to main](https://github.com/octoherd/script-rename-master-branch-to-main) - Renames the default branch to main if it is currently set to master.
 - [Sync branch protections](https://github.com/octoherd/script-sync-branch-protections) - Apply branch protection settings from one repository to others.
 - [Close renovate dashboard issues](https://github.com/octoherd/script-close-renovate-dashboard-issues) - Close all Renovate Dashboard issues.
